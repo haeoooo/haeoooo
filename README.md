@@ -228,7 +228,10 @@ TMDSGK名下 之前使用和推广很多的机器人 @sgk2022_11_30bot 和 @TMDS
 
 ## 牧笛猎魔签到社工库
 
-地址链接：[牧笛猎魔社工库](https://t.me/Mudid_bot?start=064b7f7d99)
+
+
+地址链接：[牧笛猎魔社工库]![Uploading 6E68AA87-C9C9-4D3A-A11E-F7DA45838FD0.jpeg…]()
+(https://t.me/Mudid_bot?start=064b7f7d99)
 
 ## ✨其他工具✨
 
