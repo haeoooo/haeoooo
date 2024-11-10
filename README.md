@@ -270,6 +270,14 @@ Anonymous补齐机器人正式上线
 
 地址链接：[情报局社工库](https://t.me/qbjSGKxuanwubot)
 
+## 魔神社工库
+
+小学生专用社工库，娱乐为主
+![0D350899-69B6-4636-98C0-4276B4A0D9AC](https://github.com/user-attachments/assets/0388b8e0-5a6b-4992-a693-310e21cf5f11)
+
+
+地址链接：[魔神社工库](https://t.me/moshensgk_bot)
+
 
 ## ✨其他工具✨
 
