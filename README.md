@@ -292,6 +292,14 @@ Anonymous补齐机器人正式上线
 
 ![9CB1CE52-B161-46F2-A23D-FE3D949B9088](https://github.com/user-attachments/assets/f7de01e7-32bf-4b93-bc30-6ee56c1a05d2)
 
+## 天穹社工库
+
+纯垃圾社工库，查不了什么数据就算了，收费还高的离谱，频道花里胡哨的东西一大堆，又是灰产又是担保，最离谱的还是有拉皮条做龟公，真的是林子大了什么鸟都有，你搞社工里好好搞，整这些做什么，体验了这么多社工库，这个确实恶心到了
+
+地址链接：[天穹社工库](https://t.me/TIANQIONGSHUJUBOT)
+
+![0C70B88B-0241-45A6-8B81-4A3238893618](https://github.com/user-attachments/assets/a5c39377-28e0-426c-868c-f69a2d82db65)
+
 ## ✨其他工具✨
 
 ### 手机短信轰炸
