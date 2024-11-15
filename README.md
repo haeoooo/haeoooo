@@ -284,6 +284,13 @@ Anonymous补齐机器人正式上线
 
 地址链接：[275社工库](https://t.me/tsfsgkbot)
 
+## 鸿蒙社工库
+
+模糊查找身份证号功能强大，其他一般般，签到可以免费使用，邀请用户使用可以增加免费使用次数，推荐！
+
+地址链接：[鸿蒙社工库](https://t.me/hongmengshuju_bot?start=INV7236495793)
+
+![9CB1CE52-B161-46F2-A23D-FE3D949B9088](https://github.com/user-attachments/assets/f7de01e7-32bf-4b93-bc30-6ee56c1a05d2)
 
 ## ✨其他工具✨
 
